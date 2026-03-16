@@ -1,17 +1,27 @@
-# mobile_app
+# 🛍️ Mini Katalog App
 
-A new Flutter project.
+A Flutter-based mobile catalog application built for educational purposes.
+
+## Features
+- 🏪 Multiple store support (TechMart, FashionHub, MegaStore)
+- 🛒 Shopping cart
+- 🧾 Order history
+- 🔍 Product search & filtering
+- 📦 Product detail screen
+
+## Flutter Version
+Flutter 3.x / Dart 3.x
 
 ## Getting Started
+```bash
+flutter pub get
+flutter run
+```
 
-This project is a starting point for a Flutter application.
+## Screenshots
+(Add screenshots here)
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## API Sources
+- TechMart: https://wantapi.com/products.php
+- FashionHub: https://fakestoreapi.com/products
+- MegaStore: https://dummyjson.com/products
